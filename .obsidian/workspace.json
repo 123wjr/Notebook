@@ -11,10 +11,14 @@
             "id": "e1cea5045ecf12c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "课内学习/02数学/错题.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "错题"
             }
           }
         ]
@@ -178,8 +182,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bb2d3ab4a1f4741",
+  "active": "e1cea5045ecf12c2",
   "lastOpenFiles": [
+    "课内学习/02数学/temporary.md",
+    "课内学习/02数学/数学错题.md",
+    "课内学习/03英语/高途笔记/24.10.4.md",
+    "目录大全/高途笔记.md",
     "日记/2024-05-01.md",
     "日记/2025-01-31.md",
     "模板/应用文.md",
@@ -206,10 +214,6 @@
     "课内学习/03英语/英语作文/读后续写/读后续写.xmind",
     "课内学习/03英语/英语作文/读后续写/技巧.md",
     "日记/2025-01-26.md",
-    "日记/2025-01-19.md",
-    "日记/2025-01-08.md",
-    "模板.md",
-    "日记/2025-01-06.md",
     "课内学习/03英语/英语作文/读后续写/场景",
     "课内学习/03英语/素材/试卷",
     "课内学习/03英语/素材",
