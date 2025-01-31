@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "177714f68fd0d8d2",
+        "id": "50f722c96efd61b7",
         "type": "tabs",
         "children": [
           {
-            "id": "7acca1b20ceb8890",
+            "id": "e1cea5045ecf12c2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -178,8 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7acca1b20ceb8890",
+  "active": "9bb2d3ab4a1f4741",
   "lastOpenFiles": [
+    "日记/2024-05-01.md",
     "日记/2025-01-31.md",
     "模板/应用文.md",
     "课内学习/03英语/英语作文/应用文/未命名.md",
@@ -209,7 +210,6 @@
     "日记/2025-01-08.md",
     "模板.md",
     "日记/2025-01-06.md",
-    "总结/考试/高三上第一次月考.md",
     "课内学习/03英语/英语作文/读后续写/场景",
     "课内学习/03英语/素材/试卷",
     "课内学习/03英语/素材",
