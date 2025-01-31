@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "50f722c96efd61b7",
+        "id": "53e48e0afb9b4ad6",
         "type": "tabs",
         "children": [
           {
-            "id": "e1cea5045ecf12c2",
+            "id": "a86d7f838e459da3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "课内学习/02数学/错题.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "错题"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -182,8 +183,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1cea5045ecf12c2",
+  "active": "9bb2d3ab4a1f4741",
   "lastOpenFiles": [
+    "课内学习/02数学/错题.md",
     "课内学习/02数学/temporary.md",
     "课内学习/02数学/数学错题.md",
     "课内学习/03英语/高途笔记/24.10.4.md",
@@ -213,7 +215,6 @@
     "课内学习/03英语/英语作文/读后续写/无灵主语.md",
     "课内学习/03英语/英语作文/读后续写/读后续写.xmind",
     "课内学习/03英语/英语作文/读后续写/技巧.md",
-    "日记/2025-01-26.md",
     "课内学习/03英语/英语作文/读后续写/场景",
     "课内学习/03英语/素材/试卷",
     "课内学习/03英语/素材",
