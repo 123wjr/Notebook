@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"ae9489aff2fbaa33","type":"text","text":"应用文","x":-226,"y":-79,"width":126,"height":50},
+		{"id":"7ce5762d1d1e6822","type":"text","text":"投诉信","x":-144,"y":-175,"width":128,"height":50},
+		{"id":"d23d808d6dd496cc","type":"text","text":"应聘信","x":-291,"y":-175,"width":127,"height":50},
+		{"id":"ca86352270986ab3","type":"text","text":"倡议书","x":-144,"y":16,"width":128,"height":50},
+		{"id":"6e3c0a8b9bdc00e7","type":"text","text":"通知","x":-292,"y":16,"width":128,"height":50},
+		{"id":"a59c37bbfa7b6483","type":"text","text":"求助信","x":20,"y":-155,"width":128,"height":50},
+		{"id":"3f7ec198099d5c7d","type":"text","text":"推荐信","x":20,"y":-85,"width":128,"height":50},
+		{"id":"f718ac07fc7746a5","type":"text","text":"邀请信","x":20,"y":-15,"width":128,"height":50},
+		{"id":"5ee44b35bc56f718","type":"text","text":"申请信","x":-460,"y":-155,"width":118,"height":50},
+		{"id":"56189e0da3384537","type":"text","text":"演讲稿","x":-460,"y":-85,"width":118,"height":50},
+		{"id":"10b6e8afff95aeb2","type":"text","text":"建议信","x":-460,"y":-15,"width":118,"height":50}
+	],
+	"edges":[]
+}

@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"91eaeadbae7f2e44","x":214,"y":-7,"width":250,"height":60,"type":"text","text":"细胞"},
+		{"id":"65438ee962c797a9","x":633,"y":-177,"width":250,"height":60,"type":"text","text":"真核细胞"},
+		{"id":"05f795da437f00d1","x":653,"y":2,"width":250,"height":60,"type":"text","text":"原核细胞"},
+		{"id":"5ecbaf278859a754","x":997,"y":-360,"width":250,"height":60,"type":"text","text":"细胞膜"},
+		{"id":"2a17d5c6602db3f9","x":1340,"y":-237,"width":250,"height":60,"type":"text","text":"磷脂双分子层"},
+		{"id":"5115e7b63f5fb326","x":1340,"y":-327,"width":250,"height":60,"type":"text","text":"蛋白质"},
+		{"id":"0a405b58ac7f002c","x":997,"y":-117,"width":250,"height":60,"type":"text","text":"细胞壁"},
+		{"id":"aa4424b93eb2a78d","type":"text","text":"细胞壁","x":940,"y":2,"width":250,"height":60},
+		{"id":"b8f6534c8d9e9884","x":1340,"y":-135,"width":250,"height":60,"type":"text","text":"纤维素"},
+		{"id":"a47026d7801d59e0","x":1340,"y":-37,"width":250,"height":60,"type":"text","text":"果胶"},
+		{"id":"884e52d26522658c","x":997,"y":-520,"width":250,"height":60,"type":"text","text":"线粒体"},
+		{"id":"91be85506d3b11f6","x":997,"y":-600,"width":250,"height":60,"type":"text","text":"叶绿体"},
+		{"id":"2f3bc5e06603bfe5","x":997,"y":-440,"width":250,"height":60,"type":"text","text":"核糖体"},
+		{"id":"f6688345fad30c94","x":997,"y":-680,"width":250,"height":60,"type":"text","text":"中心体"}
+	],
+	"edges":[
+		{"id":"c4ca993fcb2d84a0","fromNode":"91eaeadbae7f2e44","fromSide":"right","toNode":"65438ee962c797a9","toSide":"left"},
+		{"id":"12b8f608e112b9ff","fromNode":"91eaeadbae7f2e44","fromSide":"right","toNode":"05f795da437f00d1","toSide":"left"},
+		{"id":"474d4fe8132c84fb","fromNode":"65438ee962c797a9","fromSide":"right","toNode":"5ecbaf278859a754","toSide":"left"},
+		{"id":"4352841d421e9de7","fromNode":"65438ee962c797a9","fromSide":"right","toNode":"0a405b58ac7f002c","toSide":"left"},
+		{"id":"9e246ada3fcee974","fromNode":"5ecbaf278859a754","fromSide":"right","toNode":"5115e7b63f5fb326","toSide":"left"},
+		{"id":"0430598bf9256ad6","fromNode":"5ecbaf278859a754","fromSide":"right","toNode":"2a17d5c6602db3f9","toSide":"left"},
+		{"id":"ba5f622df54951a7","fromNode":"0a405b58ac7f002c","fromSide":"right","toNode":"b8f6534c8d9e9884","toSide":"left"},
+		{"id":"15cc5ba52180b675","fromNode":"0a405b58ac7f002c","fromSide":"right","toNode":"a47026d7801d59e0","toSide":"left"},
+		{"id":"69dd8b9f06b583d6","fromNode":"05f795da437f00d1","fromSide":"right","toNode":"aa4424b93eb2a78d","toSide":"left"},
+		{"id":"7b19d2f44400065e","fromNode":"65438ee962c797a9","fromSide":"right","toNode":"2f3bc5e06603bfe5","toSide":"left"},
+		{"id":"2adcebec45d93ee6","fromNode":"65438ee962c797a9","fromSide":"right","toNode":"884e52d26522658c","toSide":"left"},
+		{"id":"2724b27e112908be","fromNode":"65438ee962c797a9","fromSide":"right","toNode":"91be85506d3b11f6","toSide":"left"}
+	]
+}
