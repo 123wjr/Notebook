@@ -70,6 +70,7 @@
 471	\(f(x)=e^{x} + mx\sin x-x-1,\) 对论 \(f(x)\) 在 \([0,\pi]\) 上零点个数	零点
 472	\(g(x)=m^{2}\ln^{2}x-x-\frac{1}{x} + 2\) 有三零点 \(,m > 0,m\) 范围极值点 \(,m\) 范围	零点
 501	\(f(x)=a^{x}-2ex^{2}(a > 0\) 且 \(a\neq 1)\) 存在极小值点与极大值点 \(x_1,x_2,\) 若 \(x_1 < x_2,\) 则 \(a\) 为	极值
+51	\(4.“x > y”的一个充分条件可以是A.2^{x-y} > \frac{1}{2}C.\frac{x}{y} > 1\)	逻辑
 531	\(f(x)=x^2+x\ln x,g(x)=x^2-x,\) 若 \(x(x-2) < f(x)-g(x)\) 对 \(\forall x > 2\) 恒成立整数 \(k\max\)	整参问题
 532	\(m\in \mathbb{Z},\forall n\in \mathbb{N}^{*},(1+\frac{1}{2})(1+\frac{1}{2^{2}})(1+\frac{1}{2^{2}}) \cdots(1+\frac{1}{2^{n}}) < m,m\min\)	整参问题
 551	已知函数 \(f(x)=a^{x-1}-\log_{a}(x-1)(\) 其中 \(a > 0,\) 且 \(a\neq1)\) 为其定义域上的单调函数，则求a范围（019，14）	恒成立
@@ -110,6 +111,7 @@
 810	\(2\sin y-\cos x=1,\sin x + 2\cos y=\sqrt{3},x\in (0,\frac{\pi}{2}),\cos (x + \frac{\pi}{6})\)	三角函数
 811	\(f(x)=\sin(\omega x+\varphi)(w > 0,|\varphi|\leq\frac{\pi}{2}),A(-\frac{\pi}{4},0)\) 为 \(f(x)\) 对称中心 \(,x=\pi\) 为 \(f(x)\) 对称轴且 \(f(x)\) 在 \([\pi,\frac{3}{2}\pi]\) 上单调递减刚满足条件的 \(\omega \) 和为	三角函数
 812	\(f(x)=2\cos2x-2a \sin x\) 在 \((0\) ， \(n\pi)(n\in N^{*})\) 内有 \(2023\) 个零点，求 \(n\)	三角函数
+813	函数 \(f\left(x\right)=\sin\left(x+\frac{\pi}{3}\right)+\frac{3}{2}\sin\left(\frac{\pi}{6}-2x\right)\) 在区间 \(\left[-\frac{\pi}{2},\pi\right]\) 内的零点个数为？	三角函数
 901	在 \(\Delta ABC\) 中，角 \(A,B,C\) 的对边分别为 \(a,b,c\) ,且 \(C=\frac{\pi}{3}\) ，点 \(P,Q\) 分别在边 \(AC,AB\) 上，且 \(BP\) 平分 \(\angle ABC,CQ\) 平分 \(\angle ACB,BC+BQ=PB+PC.\) ，求证 \(：\frac{AB}{BC}=\frac{AP}{PC};\) 求 \(\angle ABC.\) （011，18）	解三角形
 902	\(b^{2}=2S+ab\cos C,BC\) 边上高为 \(1\) 且 \(3b\cos C=c\cos B\) ，求 \(S\)	解三角形
 903	\(\triangle ABC,\) 若 \(\sin A+\sin B > 2\sin C,\) 证 \(C < \frac{\pi}{3}\)	解三角形
@@ -117,4 +119,3 @@
 905	\(\triangle ABC,\angle C=\frac{\pi}{3}(2)\) 若点 \(D\) 在线段 \(AB\) 上，且 \(BD=2DA\) ，求 \(\frac{CD^2}{2a^2+5b^2}\) 的最大值	解三角形
 906	在 \(\triangle ABC\) 中 \(,BC=\sqrt{3}AC,\angle BAC=\frac{\pi}{3},\) 点 \(D\) 与点 \(B\) 分别在直线 \(AC\) 的两侧且 \(AD=1,DC=\sqrt{3},\) 则 \(BD\) 的长度的最大值是	解三角形
 907	在 \(\triangle ABC\) 中，角 \(A,B,C\) 所对的边分别为 \(a,b,c,\) 其外接圆半径为 \(1\) ， \(\sin 2\mathrm{A}+\sin2\mathrm{B}+\sin2\mathrm{C}=1\) ，当 \(A\) 取得最大值时 \(,a^{4}-8a=?\)	解三角形
-908	\(3	\) 函数 \( f\left(x\right)=\sin\left(x+\frac{\pi}{3}\right)+\frac{3}{2}\sin\left(\frac{\pi}{6}-2x\right)\) 在区间 \(\left[-\frac{\pi}{2},\pi\right]\) 内的零点个数为 \((\mathrm{A.~2}\quad\mathrm{B.~3}\quad\mathrm{C.~4}\quad\mathrm{D.~5}\)	解三角形
