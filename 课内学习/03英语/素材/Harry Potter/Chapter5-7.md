@@ -1,302 +1,214 @@
 ### 单词
-#### 人物
-##### 动作
-1. conjured (召唤)
-2. dashed (猛冲)
-3. collided (碰撞)
-4. tripping (绊倒)
-5. expanded (扩展)
-6. vanished (消失)
-7. whispered (低语)
-8. shrieked (尖叫)
-9. muttering (嘟囔)
-10. groaned (呻吟)
-11. pummeling (连续击打)
-12. trembling (颤抖)
-13. flinched (畏缩)
-14. gulped (吞咽)
-15. hissed (嘶嘶声)
-16. blurted (脱口而出)
-17. gasped (喘息)
-18. stammered (结巴)
-19. stared (盯着)
-20. grinned (咧嘴笑)
-21. nodded (点头)
-22. sighed (叹气)
-23. laughed (笑)
-24. whacked (重击)
-25. slammed (猛击)
-26. scowled (皱眉)
-27. glared (怒视)
-28. smirked (得意地笑)
-29. snorted (哼了一声)
-30. sneered (冷笑)
-
-##### 心理
-1. numb (麻木的)
-2. grave (严肃的)
-3. guilty (内疚的)
-4. panicked (惊慌的)
-5. miserable (悲惨的)
-6. frustrated (沮丧的)
-7. relieved (放松的)
-8. stunned (震惊的)
-9.  thoughtful (深思的)
-10. jealous (嫉妒的)
-11. shocked (震惊的)
-12. tired (疲倦的)
-13. bewildered (困惑的)
-14. apprehensive (担忧的)
-15. ecstatic (狂喜的)
-16. melancholic (忧郁的)
-17. exasperated (恼怒的)
-
-#### 场景
-##### 自然环境
-1. sumptuous (丰盛的)
-2. mouthwatering (令人垂涎的)
-3. fireworks (烟花)
-4. barrier (障碍)
-5. vanished (消失)
-6. invisibility (隐形)
-7. booster (助推器)
-8. flickered (闪烁)
-9. accelerator (加速器)
-10. splutter (喷溅)
-11. groaned (呻吟)
-12. jets (喷射)
-13. shudder (颤抖)
-14. cloudy (多云的)
-15. mist (薄雾)
-16. sunlight (阳光)
-17. stars (星星)
-18. moonlight (月光)
-19. rain (雨)
-20. fog (雾)
-21. storm (风暴)
-22. dawn (黎明)
-23. dusk (黄昏)
-24. twilight (暮光)
-25. breeze (微风)
-26. gale (大风)
-27. hail (冰雹)
-28. thunder (雷声)
-29. blizzard (暴风雪)
-30. drizzle (毛毛雨)
-
-##### 人为环境
-1. sumptuous dinner (丰盛的晚餐)
-2. mouthwatering treacle pudding (令人垂涎的糖浆布丁)
-3. display of Filibuster fireworks (Filibuster烟花展示)
-4. solid barrier (固体障碍)
-5. vanished into thin air (消失在空气中)
-6. invisibility booster (隐形助推器)
-7. collided with the barrier (碰撞障碍)
-8. shrieked in indignation (愤怒地尖叫)
-9. muttering about cruelty to animals (嘟囔着对动物的残忍)
-10. flickered back again (再次闪烁)
-11. slammed his foot on the accelerator (猛踩油门)
-12. loud clunk (响亮的咔嗒声)
-13. splutter and groan (喷溅和呻吟)
-14. narrow jets of steam (狭窄的蒸汽喷射)
-15. shuddered and groaned (颤抖和呻吟)
-16. bewitched ceiling (被施了魔法的天花板)
-17. hovering in midair (悬浮在空中)
-18. enchanted ceiling (被施了魔法的天花板)
-19. rushing sound overhead (头顶上的急促声音)
-20. circling the hall (在大厅上空盘旋)
-21. dropping letters and packages (投递信件和包裹)
-22. shredded books and papers (撕碎的书籍和纸张)
-23. upended the wastebasket (翻倒垃圾桶)
-24. grabbed bags and books (抓起包和书)
-25. smashed window (打碎的窗户)
-26. sheltering under desks (躲在桌子下)
-27. swinging from the chandelier (从吊灯上摇摆)
-28. polishing the silver (擦亮银器)
-29. buff up that Quidditch Cup (擦亮魁地奇杯)
-30. answering fan mail (回复粉丝邮件)
-
+#### 人物类
+##### 动作：
+scowl（怒视）
+lunge（猛冲）
+squirm（扭动）
+gnash（咬牙切齿）
+flail（乱挥；猛击）
+dodge（躲开）
+cower（畏缩）
+smirk（得意地笑；假笑）
+leer（不怀好意地笑；斜视）
+retch（作呕）
+hiccough（打嗝）
+slouch（没精打采地走）
+sneer（冷笑；嘲笑）
+jab（猛戳；猛击）
+pummel（连续猛击）
+wobble（摇晃）
+shriek（尖叫）
+screech（尖叫；发出尖耳的声音）
+gasp（喘气；倒抽气）
+##### 神态：
+ominously（恶狠狠地；不吉利地）
+stunned（震惊的；目瞪口呆的）
+aghast（惊骇的；吓呆的）
+petrified（吓呆的；惊呆的）
+rapt（全神贯注的；入迷的）
+bemusedly（困惑地；茫然地）
+wistful（渴望的；伤感的）
+jealous（嫉妒的；羡慕的）
+guiltily（内疚地；有罪地）
+nervously（紧张地；焦虑地）
+impatiently（不耐烦地；急切地）
+eagerly（热切地；渴望地）
+scathing（严厉批评的；轻蔑的）
+smug（沾沾自喜的；自鸣得意的）
+outraged（义愤填膺的；愤怒的）
+magnified（放大的；增强的）
+##### 心理：
+exasperated（恼怒的；烦恼的）
+relieved（感到宽慰的；放心的）
+despairing（绝望的；感到绝望的）
+humiliation（羞辱；耻辱）
+jealousy（嫉妒；羡慕）
+terror（恐惧；惊恐）
+disgust（厌恶；反感）
+#### 场景类：
+cavernous（像洞穴一样大的；宽敞的）
+dingy（肮脏的；昏暗的）
+fluffy（毛茸茸的；松软的）
+spiky（多刺的；尖刻的）
+slimy（黏糊糊的；令人厌恶的）
+lopsided（不平衡的；向一边倾斜的）
+squashy（软而容易压坏的；熟透的）
+scintillating（闪烁的；精彩的）
+bewitched（施了魔法的；着迷的）
+gloomy（昏暗的；忧郁的）
+menacing（威胁的；险恶的）
+sinister（险恶的；邪恶的）
+ominous（不祥的；恶兆的）
+murky（黑暗的；朦胧的）
+shadowy（阴暗的；多阴影的）
+dingy（肮脏的；昏暗的）
+damp（潮湿的；湿气重的）
+smoky（多烟的；烟雾弥漫的）
+woolly（毛茸茸的；模糊的）
+blazing（炽热的；强烈的）
+purplish（略带紫色的；有点发紫的）
+multicolored（色彩斑斓的；多色的）
+toy（玩具似的；小而精致的）
 ### 短语
-#### 人物
-##### 动作
-1. dashed about in a bad mood (心情不好地猛冲)
-2. colliding on the stairs (在楼梯上碰撞)
-3. tripping over a stray chicken (被一只流浪鸡绊倒)
-4. magically expanded (魔法扩展)
-5. vanished into thin air (消失在空气中)
-6. whispered to [sb] (低语)
-7. shrieked that she’d left her diary (尖叫着说她忘了日记)
-8. muttering about cruelty to animals (嘟囔着对动物的残忍)
-9. collided on the stairs (在楼梯上碰撞)
-10. whispered to Ron (对罗恩低语)
-11. groaned in despair (绝望地呻吟)
-12. pummeling every inch of the car (连续击打汽车的每一寸)
-13. trembling under a hail of blows (在一阵猛击下颤抖)
-14. flinched at the sight (看到后畏缩)
-15. gulped nervously (紧张地吞咽)
-16. hissed through clenched teeth (咬紧牙关嘶嘶作响)
-17. blurted out (脱口而出)
-18. flinched at the sound (听到声音后畏缩)
-19. muttered under his breath (低声嘟囔)
-20. groaned in frustration (沮丧地呻吟)
+#### 人物类
+##### 动作：
+round off（圆满结束）
+dash about（匆忙到处跑）
+collide on（在……上相撞）
+trip over（被……绊倒）
+stretch out（伸出）
+ease...from（从……取出）
+slit open（撕开）
+stuff...in（把……塞进）
+swivel around（转过身）
+sink low（低下身子）
+put on（戴上；穿上；上演）
+roll up（卷起；到达；出现）
+brandish...at（向……挥舞）
+cower in（在……中畏缩）
+sling...over（把……挂在……上）
+scribble a note（草草写张便条）
+dive under（躲到……下面）
+nip...back into（把……赶回）
+scramble through（爬过）
+trot alongside（在旁边小跑）
+launch into（开始；投入）
+droop onto（垂到……上）
+jerk from（从……猛地惊醒）
+skim through（掠过；浏览）
+stagger slightly（微微摇晃）
+spit with rage（愤怒地吐口水；大发雷霆）
+dive in front of（冲到……前面）
+plunge...into（把……伸进）
+point...at（指向）
+reel backward（向后摇晃）
+double up（弯腰；对折）
+hang onto（紧紧抓住）
+bang...with（用……猛击）
+gather around（聚集在……周围）
+pull...up by the arms（用胳膊把……拉起来）
+dance alongside（在旁边蹦跳）
+get out of the way（让开；避开）
+drag...behind（把……拖到……后面）
+knock urgently（急切地敲门）
+lower...into（把……放低到……里）
+retch and duck（作呕并躲避）
+wipe...with（用……擦拭）
+pat...on the back（拍拍……的背）
+send...face first into（使……脸朝下撞到）
+sit up（坐起来；熬夜）
+rub...with（用……摩擦）
+suppress a burp（忍住打嗝）
+slouch into（没精打采地走进）
+address the envelopes（写信封地址）
+strain one's ears（竖起耳朵听）
+conjure up（变出；想象出）
+fit into（装进；适应）
+dash across（冲过）
+hurry into（匆忙进入）
+walk through（穿过）
+vanish through（消失在……中）
+break into a run（突然跑起来）
+bounce backward（向后反弹）
+fall off（掉落）
+knock off one's feet（把某人撞倒）
+roll away（滚开）
+shriek indignantly（愤怒地尖叫）
+push against（推；挤）
+wheel...around（把……推转过来）
+stick one's head out of（把头伸出）
+drop out of sight（消失不见）
+shoot into（冲进）
+dip back down（向下俯冲）
+twist around（转身；扭转）
+squint at（眯着眼看）
+streak along（疾驰）
+skim the sea of（掠过……的海洋）
+burst out into（突然进入）
+make regular checks on（定期检查）
+give way to（让位于；被……取代）
+wear off（逐渐消失）
+pull off（脱下）
+slide down（滑落）
+think longingly of（渴望地想起）
+put one's foot on the accelerator（踩油门）
+wind its way（蜿蜒前行）
+sink into（陷入；沉入）
+stain...with（用……染色）
+put on a spurt of speed（突然加速）
+race around（四处飞奔）
+book the field（预订场地）
+clear off（离开）
+shoulder to shoulder（肩并肩）
+leer to a man（全体嘲笑）
+get in on（凭……进入）
+jump on（扑向；跳上）
+send...reeling backward（使……向后摇晃）
 
-##### 语言
-1. "Not a word to Molly," he whispered (低语)
-2. "Let's go together, we've only got a minute," Ron suggested (建议)
-3. "Lost control of the trolley," Harry gasped (喘息)
-4. "We're going to miss the train," Ron murmured (低语)
-5. "We can fly the car to Hogwarts!" Ron exclaimed (惊呼)
-6. "Can you fly it?" Harry inquired (询问)
-7. "No problem," Ron assured (保证)
-8. "Check that no one's watching," Ron instructed (指示)
-9. "Let's go," Ron's voice urged (催促)
-10. "Hold on!" Ron shouted (大喊)
-11. "Come on," Ron coaxed (哄骗)
-12. "Reverse!" Harry commanded (命令)
-13. "Come back!" Ron pleaded (恳求)
-14. "Can you believe our luck?" Ron lamented (哀叹)
-15. "Explain," she demanded (要求)
-16. "Why didn't you send us a letter by owl?" Professor McGonagall questioned (质问)
-17. "I — I didn't think —" Harry stammered (结巴)
-18. "We'll go and get our stuff," Ron resolved (决定)
-19. "What are you talking about, Weasley?" Professor McGonagall barked (吼叫)
-20. "Well, you're expelling us, aren't you?" Ron ventured (试探)
+##### 神态：
+in high astonishment（非常惊讶地）
+with rapt attention（全神贯注地）
+in awe（敬畏地）
+with a crazed enthusiasm（带着疯狂的热情）
+with an expression of disbelief（带着难以置信的表情）
+shaking with silent laughter（无声地笑得浑身发抖）
+frowning in the moonlight（在月光下皱眉）
+##### 心理：
+feel jealous of（嫉妒）
+feel sick（感到恶心）
+feel guilty（感到内疚）
+feel humiliated（感到羞辱）
+feel dazed（感到茫然）
+be disappointed that（对……感到失望）
+be relieved to（因……而感到宽慰）
+be glad to（很高兴）
+be eager to（渴望）
+be keen to（热衷于；渴望）
+be loathed by（被……厌恶）
+be fascinated by（被……迷住）
+be outraged at（对……感到愤怒）
+be pleased to（很高兴）
+be surprised to（对……感到惊讶）
+be worried about（担心）
+be anxious about（对……感到焦虑）
+be nervous about（对……感到紧张）
+be excited about（对……感到兴奋）
+be embarrassed about（对……感到尴尬）
+be disappointed with（对……感到失望）
+be desperate to（极度渴望）
+be reluctant to（不情愿）
+be satisfied with（对……感到满意）
+#### 场景类：
 
 ### 句段
-#### 人物
-##### 动作
-1. Fred and George rounded off the evening with a display of Filibuster fireworks; they filled the kitchen with red and blue stars that bounced from ceiling to wall for at least half an hour. (弗雷德和乔治用一场Filibuster烟花表演结束了晚上；他们把厨房填满了红色和蓝色的星星，这些星星在天花板和墙壁之间弹跳了至少半小时。)
-2. Mrs. Weasley dashed about in a bad mood looking for spare socks and quills; people kept colliding on the stairs, half-dressed with bits of toast in their hands. (韦斯莱夫人心情不好地四处寻找备用袜子和羽毛笔；人们在楼梯上不断碰撞，手里拿着半穿的衣服和吐司。)
-3. Mr. Weasley nearly broke his neck, tripping over a stray chicken as he crossed the yard carrying Ginny’s trunk to the car. (韦斯莱先生几乎摔断了脖子，他在穿过院子把金妮的行李箱搬到车上时被一只流浪鸡绊倒。)
-4. Both of them bent low over the handles of their trolleys and walked purposefully toward the barrier, gathering speed. (两个人都把身子弯在手推车的把手上，故意朝路障走去，加快了速度。)
-
-##### 神态
-1. Harry’s insides were burning with guilt. (哈利内心充满了愧疚。)
-2. Harry’s feeling of panic turned suddenly to excitement. (哈利的恐慌感突然变成了兴奋。)
-3. Harry’s whole body went numb. Dumbledore was looking unusually grave. (哈利全身麻木。邓布利多看起来异常严肃。)
-4. Harry’s brain felt like a wrung sponge. (哈利的大脑感觉像被拧干的海绵。)
-5. Ron’s face turned scarlet with embarrassment. (罗恩的脸因尴尬而变得通红。)
-6. Hermione’s eyes were wide with shock. (赫敏的眼睛因震惊而睁得大大的。)
-7. Neville’s hands were trembling with fear. (纳威的手因恐惧而颤抖。)
-8. Draco’s smirk was full of malice. (德拉科的得意笑容充满了恶意。)
-9. Ginny’s cheeks flushed with anger. (金妮的脸颊因愤怒而涨红。)
-10. Luna’s expression was one of dreamy detachment. (卢娜的表情充满了梦幻般的超然。)
-11. Snape’s eyes glittered with suspicion. (斯内普的眼睛闪烁着怀疑的光芒。)
-12. McGonagall’s lips were pressed into a thin line of disapproval. (麦格教授的嘴唇紧紧抿成一条不赞成的细线。)
-13. Hagrid’s face broke into a broad grin. (海格的脸上露出了灿烂的笑容。)
-14. Dobby’s eyes were wide with terror. (多比的眼睛因恐惧而睁得大大的。)
-15. Voldemort’s expression was one of cold, calculating menace. (伏地魔的表情充满了冷酷、算计的威胁。)
-16. Sirius’s face was etched with sorrow. (小天狼星的脸上刻满了悲伤。)
-17. Lupin’s eyes were filled with kindness. (卢平的眼中充满了善意。)
-18. Bellatrix’s laugh was wild and unhinged. (贝拉特里克斯的笑声狂野而疯狂。)
-19. Tonks’s smile was warm and reassuring. (唐克斯的笑容温暖而令人安心。)
-20. Moody’s gaze was sharp and penetrating. (穆迪的目光锐利而深邃。)
-
-##### 语言
-1. "Not a word to Molly," he whispered (低语)
-2. "Let's go together, we've only got a minute," Ron suggested (建议)
-3. "Lost control of the trolley," Harry gasped (喘息)
-4. "We're going to miss the train," Ron murmured (低语)
-5. "We can fly the car to Hogwarts!" Ron exclaimed (惊呼)
-6. "Can you fly it?" Harry inquired (询问)
-7. "No problem," Ron assured (保证)
-8. "Check that no one's watching," Ron instructed (指示)
-9. Let's go," Ron's voice urged (催促)
-10. Hold on!" Ron shouted (大喊)
-11. "Come on," Ron coaxed (哄骗)
-12. "Reverse!" Harry commanded (命令)
-13. "Come back!" Ron pleaded (恳求)
-14. "Can you believe our luck?" Ron lamented (哀叹)
-15. "Explain," she demanded (要求)
-16. "Why didn't you send us a letter by owl?" Professor McGonagall questioned (质问)
-17. "I — I didn't think —" Harry stammered (结巴)
-18. "We'll go and get our stuff," Ron resolved (决定)
-19. "What are you talking about, Weasley?" Professor McGonagall barked (吼叫)
-20. "Well, you're expelling us, aren't you?" Ron ventured (试探)
-21. "Not today, Mr. Weasley," Dumbledore declared (宣布)
-22. "I will not take any points from Gryffindor," she stated (陈述)
-23. "You will eat in here and then go straight up to your dormitory," she instructed (指示)
-24. "Er —" Harry hesitated (犹豫)
-25. "There you are! Where have you been?" Hermione demanded (质问)
-26. "You're not telling me you did fly here?" Hermione exclaimed (惊呼)
-27. "Skip the lecture," Ron interrupted (打断)
-28. "It's 'wattlebird,'" Hermione revealed (透露)
-
-
-##### 心理
-1. Harry’s insides were burning with guilt. (哈利内心充满了愧疚。)
-2. Harry’s feeling of panic turned suddenly to excitement. (哈利的恐慌感突然变成了兴奋。)
-3. Harry’s whole body went numb. Dumbledore was looking unusually grave. (哈利全身麻木。邓布利多看起来异常严肃。)
-4. Harry’s brain felt like a wrung sponge. (哈利的大脑感觉像被拧干的海绵。)
-5. Ron’s face turned scarlet with embarrassment. (罗恩的脸因尴尬而变得通红。)
-6. Hermione’s eyes were wide with shock. (赫敏的眼睛因震惊而睁得大大的。)
-7. Neville’s hands were trembling with fear. (纳威的手因恐惧而颤抖。)
-8. Draco’s smirk was full of malice. (德拉科的得意笑容充满了恶意。)
-9. Ginny’s cheeks flushed with anger. (金妮的脸颊因愤怒而涨红。)
-10. Luna’s expression was one of dreamy detachment. (卢娜的表情充满了梦幻般的超然。)
-11. Snape’s eyes glittered with suspicion. (斯内普的眼睛闪烁着怀疑的光芒。)
-12. McGonagall’s lips were pressed into a thin line of disapproval. (麦格教授的嘴唇紧紧抿成一条不赞成的细线。)
-13. Hagrid’s face broke into a broad grin. (海格的脸上露出了灿烂的笑容。)
-14. Dobby’s eyes were wide with terror. (多比的眼睛因恐惧而睁得大大的。)
-15. Voldemort’s expression was one of cold, calculating menace. (伏地魔的表情充满了冷酷、算计的威胁。)
-16. Sirius’s face was etched with sorrow. (小天狼星的脸上刻满了悲伤。)
-17. Lupin’s eyes were filled with kindness. (卢平的眼中充满了善意。)
-18. Bellatrix’s laugh was wild and unhinged. (贝拉特里克斯的笑声狂野而疯狂。)
-19. Tonks’s smile was warm and reassuring. (唐克斯的笑容温暖而令人安心。)
-20. Moody’s gaze was sharp and penetrating. (穆迪的目光锐利而深邃。)
-
-
-#### 场景
-##### 自然环境
-1. The wheels of the car skimmed the sea of fluffy cloud, the sky a bright, endless blue under the blinding white sun. (汽车的轮子掠过一片绵软的云海，天空在耀眼的白色阳光下显得明亮而无尽。)
-2. The castle was right ahead — Ron put his foot down. There was a loud clunk, a splutter, and the engine died completely. (城堡就在前方——罗恩踩下油门。传来一声响亮的咔嗒声、喷溅声，发动机完全熄火了。)
-3. The tree they had hit was attacking them. Its trunk was bent almost double, and its gnarled boughs were pummeling every inch of the car it could reach. (他们撞到的树在攻击他们。它的树干几乎弯成两倍粗，扭曲的树枝击打着能碰到的汽车的每一寸。)
-4. Innumerable candles were hovering in midair over four long, crowded tables, making the golden plates and goblets sparkle. Overhead, the bewitched ceiling, which always mirrored the sky outside, sparkled with stars. (无数蜡烛悬浮在四张长长的、拥挤的桌子上空，使金色的盘子和酒杯闪闪发光。头顶上，被施了魔法的天花板总是映照着外面的天空，闪烁着星星。)
-5. The four long House tables were laden with tureens of porridge, plates of kippers, mountains of toast, and dishes of eggs and bacon, beneath the enchanted ceiling (today, a dull, cloudy gray). (四张长长的学院桌子上摆满了粥锅、熏鱼盘、成堆的吐司和鸡蛋培根盘，天花板上施了魔法（今天是阴沉的灰色）。)
-6. A rushing sound overhead and a hundred or so owls streamed in, circling the hall and dropping letters and packages into the chattering crowd. (头顶上传来急促的声音，大约有一百只猫头鹰飞进来，在大厅上空盘旋，向喋喋不休的人群投递信件和包裹。)
-7. The Mandrakes didn’t like coming out of the earth, but didn’t seem to want to go back into it either. They squirmed, kicked, flailed their sharp little fists, and gnashed their teeth. (曼德拉草不喜欢从土里出来，但似乎也不想回到土里。它们扭动、踢腿、挥舞着锋利的小拳头，咬牙切齿。)
-8. The pixies shot in every direction like rockets. Two of them seized [sb] by the ears and lifted him into the air. (小精灵像火箭一样向四面八方飞去。其中两个抓住[某人]的耳朵，把他举到空中。)
-9. The sky was a clear, brilliant blue, with not a cloud in sight. (天空一片清澈明亮的蓝色，没有一片云彩。)
-10. The sun was setting, casting a warm, golden glow over the landscape. (太阳正在下山，给景色洒上一层温暖的金色光芒。)
-11. A thick fog had settled over the grounds, making everything look ghostly and surreal. (一层浓雾笼罩着地面，使一切看起来如幽灵般虚幻。)
-12. The wind howled through the trees, making the branches creak and groan. (风在树间呼啸，使树枝嘎吱作响。)
-13. The rain was pouring down in sheets, drenching everything in sight. (雨如倾盆，淋湿了视线中的一切。)
-14. The snow was falling softly, blanketing the ground in a layer of white. (雪轻轻地飘落，给地面覆盖上一层白色。)
-15. The moonlight cast eerie shadows on the ground, making everything look otherworldly. (月光在地上投下诡异的影子，使一切看起来像来自另一个世界。)
-16. The storm raged on, with thunder rumbling and lightning flashing across the sky. (风暴肆虐，雷声隆隆，闪电划过天空。)
-17. The dawn broke, painting the sky in shades of pink and orange. (黎明破晓，天空被涂上粉色和橙色的色调。)
-18. The twilight was a deep, velvety blue, with stars beginning to twinkle. (暮光是一片深沉的天鹅绒蓝色，星星开始闪烁。)
-19. The breeze was gentle, carrying the scent of flowers and fresh grass. (微风轻拂，带来花香和新鲜草地的气息。)
-20. The gale was fierce, bending trees and tearing leaves from their branches. (大风猛烈，弯曲树木，撕扯树枝上的叶子。)
-
-##### 人为环境
-1. The end of the summer vacation came too quickly for [sb]'s liking. He was looking forward to getting back to Hogwarts, but his month at the Burrow had been the happiest of his life. (暑假结束得太快了，[某人]还没来得及享受。他期待着回到霍格沃茨，但他在陋居的一个月是他一生中最快乐的时光。)
-2. On their last evening, Mrs. Weasley conjured up a sumptuous dinner that included all of [sb]'s favorite things, ending with a mouthwatering treacle pudding. (在他们的最后一个晚上，韦斯莱夫人变出了一顿丰盛的晚餐，包括[某人]最喜欢的所有东西，以令人垂涎的糖浆布丁结束。)
-3. They reached King’s Cross at a quarter to eleven. Mr. Weasley dashed across the road to get trolleys for their trunks and they all hurried into the station. (他们在十一点差一刻到达国王十字车站。韦斯莱先生冲过马路去拿手推车装行李箱，他们都匆忙进入车站。)
-4. The tricky part was getting onto platform nine and three-quarters, which wasn’t visible to the Muggle eye. (最棘手的部分是进入九又四分之三站台，这对麻瓜的眼睛来说是看不见的。)
-5. The car around them vanished — and so did they. [sb] could feel the seat vibrating beneath him, hear the engine, feel his hands on his knees and his glasses on his nose, but for all he could see, he had become a pair of eyeballs, floating a few feet above the ground in a dingy street full of parked cars. (他们周围的汽车消失了——他们也消失了。[某人]能感觉到座位在他下面振动，听到发动机的声音，感觉到他的手放在膝盖上，眼镜在鼻子上，但他所能看到的只是他变成了一对眼球，漂浮在一条满是停着汽车的昏暗街道上。)
-6. The wheels of the car skimmed the sea of fluffy cloud, the sky a bright, endless blue under the blinding white sun. (汽车的轮子掠过一片绵软的云海，天空在耀眼的白色阳光下显得明亮而无尽。)
-7. The castle was right ahead — Ron put his foot down. There was a loud clunk, a splutter, and the engine died completely. (城堡就在前方——罗恩踩下油门。传来一声响亮的咔嗒声、喷溅声，发动机完全熄火了。)
-8. The tree they had hit was attacking them. Its trunk was bent almost double, and its gnarled boughs were pummeling every inch of the car it could reach. (他们撞到的树在攻击他们。它的树干几乎弯成两倍粗，扭曲的树枝击打着能碰到的汽车的每一寸。)
-9. Innumerable candles were hovering in midair over four long, crowded tables, making the golden plates and goblets sparkle. Overhead, the bewitched ceiling, which always mirrored the sky outside, sparkled with stars. (无数蜡烛悬浮在四张长长的、拥挤的桌子上空，使金色的盘子和酒杯闪闪发光。头顶上，被施了魔法的天花板总是映照着外面的天空，闪烁着星星。)
-10. The four long House tables were laden with tureens of porridge, plates of kippers, mountains of toast, and dishes of eggs and bacon, beneath the enchanted ceiling (today, a dull, cloudy gray). (四张长长的学院桌子上摆满了粥锅、熏鱼盘、成堆的吐司和鸡蛋培根盘，天花板上施了魔法（今天是阴沉的灰色）。)
-11. A rushing sound overhead and a hundred or so owls streamed in, circling the hall and dropping letters and packages into the chattering crowd. (头顶上传来急促的声音，大约有一百只猫头鹰飞进来，在大厅上空盘旋，向喋喋不休的人群投递信件和包裹。)
-12. The Mandrakes didn’t like coming out of the earth, but didn’t seem to want to go back into it either. They squirmed, kicked, flailed their sharp little fists, and gnashed their teeth. (曼德拉草不喜欢从土里出来，但似乎也不想回到土里。它们扭动、踢腿、挥舞着锋利的小拳头，咬牙切齿。)
-13. The pixies shot in every direction like rockets. Two of them seized [sb] by the ears and lifted him into the air. (小精灵像火箭一样向四面八方飞去。其中两个抓住[某人]的耳朵，把他举到空中。)
-14. The sky was a clear, brilliant blue, with not a cloud in sight. (天空一片清澈明亮的蓝色，没有一片云彩。)
-15. The sun was setting, casting a warm, golden glow over the landscape. (太阳正在下山，给景色洒上一层温暖的金色光芒。)
-16. A thick fog had settled over the grounds, making everything look ghostly and surreal. (一层浓雾笼罩着地面，使一切看起来如幽灵般虚幻。)
-17. The wind howled through the trees, making the branches creak and groan. (风在树间呼啸，使树枝嘎吱作响。)
-18. The rain was pouring down in sheets, drenching everything in sight. (雨如倾盆，淋湿了视线中的一切。)
-19. The snow was falling softly, blanketing the ground in a layer of white. (雪轻轻地飘落，给地面覆盖上一层白色。)
-20. The moonlight cast eerie shadows on the ground, making everything look otherworldly. (月光在地上投下诡异的影子，使一切看起来像来自另一个世界。)
-21. The storm raged on, with thunder rumbling and lightning flashing across the sky. (风暴肆虐，雷声隆隆，闪电划过天空。)
-22. The dawn broke, painting the sky in shades of pink and orange. (黎明破晓，天空被涂上粉色和橙色的色调。)
-23. The twilight was a deep, velvety blue, with stars beginning to twinkle. (暮光是一片深沉的天鹅绒蓝色，星星开始闪烁。)
-24. The breeze was gentle, carrying the scent of flowers and fresh grass. (微风轻拂，带来花香和新鲜草地的气息。)
-25. The gale was fierce, bending trees and tearing leaves from their branches. (大风猛烈，弯曲树木，撕扯树枝上的叶子。)
-26. The blizzard was relentless, covering everything in a thick layer of snow. (暴风雪无情地覆盖了一切，厚厚的积雪覆盖了所有东西。)
-27. The drizzle was light but persistent, soaking everything slowly. (毛毛雨轻柔但持续，慢慢地浸湿了一切。)
-28. The thunderstorm was intense, with lightning illuminating the dark sky. (雷暴猛烈，闪电照亮了黑暗的天空。)
-29. The fog was so dense that visibility was reduced to just a few feet. (雾非常浓，能见度仅有几英尺。)
-30. The sun rose, casting long shadows and bathing the world in a golden light. (太阳升起，投下长长的影子，把世界沐浴在金色的光芒中。)
+#### 人物类
+##### 动作：
+“Percy strode briskly forward and vanished. Mr. Weasley went next; Fred and George followed.”（第102行）描绘了几个人依次通过站台屏障的动作de briskly”体现出珀西的轻快步伐shed”则突出了魔法场景下人物消失的神奇。
+##### 神态：
+“Professor McGonagall gave him a piercing look, but he was sure she had almost smiled. Her mouth looked less thin, anyway.”（第149行）通过对麦格教授眼神和嘴部表情的描写cing look”展现出她的严厉ost smiled”和“mouth looked less thin”又微妙地表现出她态度的缓和物神态变化。
+##### 语言：
+“‘— STEALING THE CAR, I WOULDN’T HAVE BEEN SURPRISED IF THEY’D EXPELLED YOU, YOU WAIT TILL I GET HOLD OF YOU, I DON’T SUPPOSE YOU STOPPED TO THINK WHAT YOUR FATHER AND I WENT THROUGH WHEN WE SAW IT WAS GONE —’ Mrs. Weasley’s yells, a hundred times louder than usual, made the plates and spoons rattle on the table, and echoed deafeningly off the stone walls.”（第179行）韦斯莱夫人这段怒吼式的语言破折号的使用增强了语气出她极度愤怒的情绪 the plates and spoons rattle”“echoed deafeningly”更烘托出当时紧张的氛围。
+##### 心理：
+“Harry felt as though he’d just been walloped in the stomach by one of the mad tree’s larger branches. If anyone found out Mr. Weasley had bewitched the car... he hadn’t thought of that...”（第146行）运用比喻“felt as though he’d just been walloped in the stomach”形象地描绘出哈利得知可能带来的后果时内心的震惊与不安这件事的担忧和自责。
+#### 场景类：
+“Innumerable candles were hovering in midair over four long, crowded tables, making the golden plates and goblets sparkle. Overhead, the bewitched ceiling, which always mirrored the sky outside, sparkled with stars.”
